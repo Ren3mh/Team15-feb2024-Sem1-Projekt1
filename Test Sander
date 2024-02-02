@@ -1,1 +1,5 @@
-hello world!
+#!/bin/bash
+# Hej Sander, jeg f++ker bare lige med dit dokument saa du har noget af pull paa mandag. 
+# Hvis du goer filen 'executable' saa koerer denne fil i en bash-shell. ;-)
+
+echo "hello world!"
