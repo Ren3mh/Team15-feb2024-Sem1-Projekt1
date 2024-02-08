@@ -1,0 +1,4 @@
+#!/bin/bash
+# Fuc* det er nice.. Nu virker vim keybindings og navigation i Visual Studio.. Installer VSVIM.. ;-*
+
+echo "Hello World!"
